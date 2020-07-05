@@ -1,0 +1,41 @@
+{% extends 'template.html' %}
+{% block main %}
+
+  <h3 class="text-center">Connecting Nodes</h3>
+  <br>
+
+  <table class="table">
+
+    <tr>
+      <th>
+        Source Station
+      </th>
+      <th>
+        Neighboring Nodes
+      </th>
+    </tr>
+
+    {% for li in adjacency_list %}
+
+    {% set source = stations[loop.index-1] %}
+
+    <tr>
+
+      <td>
+        {{source}}
+      </td>
+
+      <td>
+        {% for i in li %}
+          {{ stations[i[0]] }}  <br>
+        {% endfor %}
+      </td>
+
+    </tr>
+
+    {% endfor %}
+
+  </table>
+
+
+{% endblock %}

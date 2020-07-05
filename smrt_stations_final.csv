@@ -1,0 +1,92 @@
+,station_code,station_name,code:name,idx
+0,NS1,Jurong East,NS1: Jurong East,0
+1,NS2,Bukit Batok,NS2: Bukit Batok,1
+2,NS3,Bukit Gombak,NS3: Bukit Gombak,2
+3,NS4,Choa Chu Kang,NS4: Choa Chu Kang,3
+4,NS5,Yew Tee,NS5: Yew Tee,4
+5,NS7,Kranji,NS7: Kranji,5
+6,NS8,Marsiling,NS8: Marsiling,6
+7,NS9,Woodlands,NS9: Woodlands,7
+8,NS10,Admiralty,NS10: Admiralty,8
+9,NS11,Sembawang,NS11: Sembawang,9
+10,NS12,Canberra,NS12: Canberra,10
+11,NS13,Yishun,NS13: Yishun,11
+12,NS14,Khatib,NS14: Khatib,12
+13,NS15,Yio Chu Kang,NS15: Yio Chu Kang,13
+14,NS16,Ang Mo Kio,NS16: Ang Mo Kio,14
+15,NS17,Bishan,NS17: Bishan,15
+16,NS18,Braddell,NS18: Braddell,16
+17,NS19,Toa Payoh,NS19: Toa Payoh,17
+18,NS20,Novena,NS20: Novena,18
+19,NS21,Newton,NS21: Newton,19
+20,NS22,Orchard,NS22: Orchard,20
+21,NS23,Somerset,NS23: Somerset,21
+22,NS24,Dhoby Ghaut,NS24: Dhoby Ghaut,22
+23,NS25,City Hall,NS25: City Hall,23
+24,NS26,Raffles Place,NS26: Raffles Place,24
+25,NS27,Marina Bay,NS27: Marina Bay,25
+26,NS28,Marina South Pier,NS28: Marina South Pier,26
+27,EW1,Pasir Ris,EW1: Pasir Ris,27
+28,EW2,Tampines,EW2: Tampines,28
+29,EW3,Simei,EW3: Simei,29
+30,EW4,Tanah Merah,EW4: Tanah Merah,30
+31,EW5,Bedok,EW5: Bedok,31
+32,EW6,Kembangan,EW6: Kembangan,32
+33,EW7,Eunos,EW7: Eunos,33
+34,EW8,Paya Lebar,EW8: Paya Lebar,34
+35,EW9,Aljunied,EW9: Aljunied,35
+36,EW10,Kallang,EW10: Kallang,36
+37,EW11,Lavender,EW11: Lavender,37
+38,EW12,Bugis,EW12: Bugis,38
+39,EW13,City Hall,EW13: City Hall,23
+40,EW14,Raffles Place,EW14: Raffles Place,24
+41,EW15,Tanjong Pagar,EW15: Tanjong Pagar,39
+42,EW16,Outram Park,EW16: Outram Park,40
+43,EW17,Tiong Bahru,EW17: Tiong Bahru,41
+44,EW18,Redhill,EW18: Redhill,42
+45,EW19,Queenstown,EW19: Queenstown,43
+46,EW20,Commonwealth,EW20: Commonwealth,44
+47,EW21,Buona Vista,EW21: Buona Vista,45
+48,EW22,Dover,EW22: Dover,46
+49,EW23,Clementi,EW23: Clementi,47
+50,EW24,Jurong East,EW24: Jurong East,0
+51,EW25,Chinese Garden,EW25: Chinese Garden,48
+52,EW26,Lakeside,EW26: Lakeside,49
+53,EW27,Boon Lay,EW27: Boon Lay,50
+54,EW28,Pioneer,EW28: Pioneer,51
+55,EW29,Joo Koon,EW29: Joo Koon,52
+56,CG,Tanah Merah,CG: Tanah Merah,30
+57,CG1,Expo,CG1: Expo,53
+58,CG2,Changi Airport,CG2: Changi Airport,54
+59,NE1,HarbourFront,NE1: HarbourFront,55
+60,NE3,Outram Park,NE3: Outram Park,40
+61,NE4,Chinatown,NE4: Chinatown,56
+62,NE5,Clarke Quay,NE5: Clarke Quay,57
+63,NE6,Dhoby Ghaut,NE6: Dhoby Ghaut,22
+64,NE7,Little India,NE7: Little India,58
+65,NE8,Farrer Park,NE8: Farrer Park,59
+66,NE9,Boon Keng,NE9: Boon Keng,60
+67,NE10,Potong Pasir,NE10: Potong Pasir,61
+68,NE11,Woodleigh,NE11: Woodleigh,62
+69,NE12,Serangoon,NE12: Serangoon,63
+70,NE13,Kovan,NE13: Kovan,64
+71,NE14,Hougang,NE14: Hougang,65
+72,NE15,Buangkok,NE15: Buangkok,66
+73,NE16,Sengkang,NE16: Sengkang,67
+74,NE17,Punggol,NE17: Punggol,68
+75,CC1,Dhoby Ghaut,CC1: Dhoby Ghaut,22
+76,CC2,Bras Basah,CC2: Bras Basah,69
+77,CC3,Esplanade,CC3: Esplanade,70
+78,CC4,Promenade,CC4: Promenade,71
+79,CC5,Nicoll Highway,CC5: Nicoll Highway,72
+80,CC6,Stadium,CC6: Stadium,73
+81,CC7,Mountbatten,CC7: Mountbatten,74
+82,CC8,Dakota,CC8: Dakota,75
+83,CC9,Paya Lebar,CC9: Paya Lebar,34
+84,CC10,MacPherson,CC10: MacPherson,76
+85,CC11,Tai Seng,CC11: Tai Seng,77
+86,CC12,Bartley,CC12: Bartley,78
+87,CC13,Serangoon,CC13: Serangoon,63
+88,CC14,Lorong Chuan,CC14: Lorong Chuan,79
+89,CC15,Bishan,CC15: Bishan,15
+90,CC16,Marymount,CC16: Marymount,80

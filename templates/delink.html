@@ -1,0 +1,42 @@
+{% extends 'template.html' %}
+{% block main %}
+
+<h3>De-Link</h3>
+
+  <table class="table">
+
+    <tr>
+
+      <th>Source</th>
+
+      <th>Destination</th>
+
+      <th></th>
+
+    </tr>
+
+    {% for list in adjacency_list %}
+
+    {% set source = stations[loop.index-1] %}
+
+    {% for node in list %}
+
+    <tr>
+
+      <td>{{source}}</td>
+
+      <td>{{ stations[node[0]] }}</td>
+
+      <td> <a class="btn btn-danger" href="{{ url_for('remove_from_adjacency_list', source=source, destination=stations[node[0]]) }}">Delink</a></td>
+
+    </tr>
+
+    {% endfor %}
+
+    {% endfor %}
+
+
+  </table>
+
+
+{% endblock %}

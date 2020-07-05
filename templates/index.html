@@ -1,0 +1,16 @@
+{% extends 'template.html' %}
+{% block main %}
+
+<h3 class="text-center">Stations</h3>
+
+<table class="table">
+  {% for station in stations %}
+    <tr>
+      <td>{{ loop.index }}</td>
+      <td>{{ station }}</td>
+    </tr>
+  {% endfor %}
+
+</table>
+
+{% endblock %}
